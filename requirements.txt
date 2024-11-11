@@ -1,0 +1,2 @@
+fal_client==0.4.1
+streamlit==1.38.0
